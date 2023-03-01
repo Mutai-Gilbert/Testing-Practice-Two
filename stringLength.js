@@ -1,6 +1,6 @@
-function stringLength(number) {
-    if(string.length > 0 || string.length < 10  ) {
-        return number.length;
+function stringLength(string) {
+    if (string.length > 0 || string.length < 10  ) {
+        return string.length;
     } 
     throw new Error('Strings must be 1 at least 1 character long and not long than 10 characters');
 }

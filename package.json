@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice-two",
+  "version": "1.0.0",
+  "description": "- Create a new GitHub repository for this exercise.",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mutai-Gilbert/Testing-Practice-Two.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mutai-Gilbert/Testing-Practice-Two/issues"
+  },
+  "homepage": "https://github.com/Mutai-Gilbert/Testing-Practice-Two#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
