@@ -24,6 +24,7 @@ class Calculator {
     multiply = (a, b) => a * b;
 }
 
+// capitalizeString function
 function capitalizeString(string){
     if ( string !== "") {
         return string.charAt(0).toUpperCase() + string.slice(1);
